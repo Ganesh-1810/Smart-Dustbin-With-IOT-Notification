@@ -5,3 +5,7 @@ This project is to design and build a prototype for an automatic open dustbin th
 ### Requirements
 
 * Arduino
+* Ultrasonic
+* Peizo Electric Sensor
+* Display
+* IoT module
